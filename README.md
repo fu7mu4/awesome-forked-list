@@ -16,3 +16,10 @@ Here is private memo for forked Free and Open Source project. If you have suggen
 - Description: Simple Kana Kanji for Aqua
 - Developper URL: https://github.com/codefirst/aquaskk
 - forked from: https://github.com/t-suwa/aquaskk
+
+# LibreSSL
+
+- Label:SSL
+- Description: 
+- Developer URL: https://www.libressl.org/
+- forked from: https://www.openssl.org/
